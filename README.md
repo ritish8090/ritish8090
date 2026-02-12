@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning & Python**
 - 💬 Ask me about **Python, Data Analysis, Statistics, Machine Learning**
-- 📫 How to reach me **ritishkumar@8090gmail.com**
+- 📫 How to reach me **ritishkumar8090@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
