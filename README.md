@@ -13,17 +13,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/ritish-kumar-756742321/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
   </a>
   <a href="https://www.hackerrank.com/your-username">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/>
   </a>
-  <a href="https://www.leetcode.com/your-username">
+  <a href="https://leetcode.com/u/ritish003/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/your-username">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30"/>
+  </a>
+  <a href="https://codeforces.com/profile/ritish33">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30"/>
   </a>
 </p>
 
