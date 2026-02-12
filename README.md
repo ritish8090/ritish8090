@@ -1,7 +1,7 @@
 <h1 align="center">Hi Myself Ritish Roshan Kumar</h1>
 <h3 align="center">A passionate Data Science enthusiast from VIT Bhopal </h3>
 
-<img align="center" alt="coding" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
+<img align="center" alt="coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ritishroshankumar&label=Profile%20views&color=0e75b6&style=flat" alt="ritishroshankumar" />
