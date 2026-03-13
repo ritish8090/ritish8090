@@ -1,4 +1,4 @@
-<h1 align="center">Hi Myself Ritish Roshan Kumar</h1>
+<h1 align="center"> Hi Myself Ritish Roshan Kumar </h1>
 <h3 align="center">A Passionate Data Science Enthusiast From VIT Bhopal University </h3>
 
 <img align="center" alt="coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
