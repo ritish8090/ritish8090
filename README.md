@@ -44,12 +44,12 @@
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
+  <!-- <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
   </a>
   <a href="https://www.mathworks.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
-  </a>
+  </a> -->
 </p>
 
 <p>
